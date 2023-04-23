@@ -1,5 +1,7 @@
 # About me
 
+
+
 ## Introduction
 Through some statistical tools for scientists I realised how old-school chemists are and how much would the field benefit from application of maths, modern technologies and approches so common in IT. Through that I have become interested in data science and in coding in general. Currently I still have a job as a chemist, but I can't imagine staying in the filed and I am studying hard to get a job in IT by 2024. I dream that once in the future I will be able to combine both passions together and work on the intersection of IT and Chemistry.
 
@@ -17,11 +19,13 @@ I am looking for a project on the intersection of Chemistry and IT. Let me know 
 
 <details>
 <summary>My top languages</summary>
+
 | Rank | Languages |
-|-----:|-----------|
+|-----:|:----------|
 |     1| Python    |
 |     2| Javascript|
 |     3| SQL       |
+
 </details>
 
 <details>
