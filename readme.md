@@ -12,3 +12,20 @@ Through some statistical tools for scientists I realised how old-school chemists
 
 ## My goal
 I am looking for a project on the intersection of Chemistry and IT. Let me know if you are up to something.
+
+## Skills
+
+<details>
+<summary>My top languages</summary>
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Javascript|
+|     3| SQL       |
+</details>
+
+<details>
+<summary>Other skills</summary>
+* HTML
+* Data Analysis
+</details>
