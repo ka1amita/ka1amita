@@ -9,7 +9,7 @@ Through some statistical tools for scientists I realised how old-school chemists
 ## Basic facts <!-- TO DO: add more details about me later -->
 * I come from Czech Republic 
 * I was born in 1989
-* I have finished Master's in Chemictry at UCT Pague
+* I have got Master's in Chemictry at UCT Pague
 * I have passion for development
 * I love drinking coffee, doing orienteering or just spending time in the Nature
 
